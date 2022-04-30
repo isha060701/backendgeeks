@@ -1,5 +1,5 @@
 {
-  "name": "backendfour",
+  "name": "backendgeeks",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "simpleNode": "ts-node-dev --respawn simpleNode.ts",
     "simpleKoa": "ts-node-dev --respawn SimpleKoa.ts",
-    "start": "ts-node-dev --respawn simpleNode.ts"
+    "start": "ts-node-dev --respawn simpleNode.ts",
+    "KoaDbSql": "ts-node-dev --respawn KoaDbSql.ts"
+
 
   },
   "author": "",
